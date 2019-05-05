@@ -1,6 +1,8 @@
 # Tensorflow-Projekte
 
-## Bilder laden und CNN trainieren
+Dieses Projekt soll einige praktische Beispiele von Tensorflow enthalten.
+
+## (CNN) Bilder laden und CNN trainieren
 
 Mittels diesen Code koennen Bilder aus einem Ordner gelesen werden und in das 
 Tensorflow Datei Format formatiert werden. 
@@ -30,7 +32,7 @@ Dieser Code ist stark angelehnt von folgendem Projekt:
 Author: Aymeric Damien
 Project: https://github.com/aymericdamien/TensorFlow-Examples/
 
-## ToDo
+### ToDo
 
 - [ ] Pipeline modifizieren
 - [ ] Skript zum manuellen Testen der .pb
