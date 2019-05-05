@@ -1,0 +1,2 @@
+model_checkpoint_path: "gtsrbCNN.ckpt"
+all_model_checkpoint_paths: "gtsrbCNN.ckpt"
